@@ -2,7 +2,7 @@
   {
     "name": "Remove Friends Activity Menu",
     "description": "Hide/Show friends menu from friends activity",
-    "preview": "RemoveFriendsActivityMenu/image.png",
+    "preview": "RemoveFriendsActivityMenu/image.gif",
     "main": "RemoveFriendsActivityMenu/removeFriendsActivity.js",
     "readme": "RemoveFriendsActivityMenu/README.md"
   }
