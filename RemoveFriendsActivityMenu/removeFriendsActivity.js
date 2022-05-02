@@ -1,11 +1,13 @@
 const removeFriendsActivity = () => {
   document.querySelector(".Root__top-container aside").style.display = "none";
   document.getElementById("4D3C2B1AA").style.display = "block";
+  document.querySelector(".main-userWidget-box").style.marginRight = "10em";
 }
 
 const showFriendsActivity = () => {
   document.querySelector(".Root__top-container aside").style.display = "block";
   document.getElementById("4D3C2B1AA").style.display = "none";
+  document.querySelector(".main-userWidget-box").style.marginRight = "0em";
 }
 
 const removeFriendsActivityInit = () => {
