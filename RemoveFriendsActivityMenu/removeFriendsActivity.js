@@ -36,7 +36,6 @@ const removeFriendsActivityInit = () => {
 
   document.querySelector(".MObmOrMxbQpO10ebAtZA").parentElement.appendChild(quitBtn);
   document.querySelector(".A1B2C3D4").addEventListener("click", removeFriendsActivity)
-  document.querySelector(".main-userWidget-box").style.marginRight = "10em";
 
   // BTO TO SHOW FRIENDS ACTIVITY
   let openBtn = document.createElement("button");
